@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff"
+        android:orientation="vertical"
+        android:visibility="visible"
+        >
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="#ce0e0e"
+        >
+        <ImageView
+            android:id="@+id/imvBack"
+            android:layout_width="55dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/back"
+            android:layout_gravity="center"
+            android:padding="10dp"
+            />
+        <TextView
+            android:id="@+id/txtChuDe1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:textSize="34sp"
+            android:textAlignment="center"
+            android:paddingRight="55dp"
+            android:textColor="#000"
+            />
+    </LinearLayout>
+        <EditText
+            android:id="@+id/edtnoidung"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="6"
+            android:background="@android:color/transparent"
+            android:hint="Nhập Từ"
+            android:singleLine="true"
+            android:text=""
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="55sp"
+
+            />
+
+        <LinearLayout
+            android:id="@+id/lnnghe"
+            android:padding="7dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@drawable/custom_btn"
+            >
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="4"
+                android:adjustViewBounds="true"
+                android:src="@drawable/playn" />
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="  Nghe"
+                android:textColor="#000"
+                android:textSize="34sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/lnthuam"
+            android:padding="7dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custom_btn"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="4"
+                android:adjustViewBounds="true"
+                android:src="@drawable/microphone" />
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="  Thu âm mới"
+                android:textColor="#000"
+                android:textSize="34sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/lnluu"
+            android:padding="7dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custom_btn"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="4"
+                android:adjustViewBounds="true"
+                android:cropToPadding="false"
+                android:src="@drawable/save" />
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="  Lưu"
+                android:textColor="#000"
+                android:textSize="34sp" />
+
+        </LinearLayout>
+    </LinearLayout>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.getbase:floatingactionbutton-1.9.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/e7959eda93826848543c2ecdfc03be7fb238bfd2/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/e7959eda93826848543c2ecdfc03be7fb238bfd2/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.getbase/floatingactionbutton/1.9.0/85b387d3e5b0028b5f4f93a0654dfe03aed2631a/floatingactionbutton-1.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

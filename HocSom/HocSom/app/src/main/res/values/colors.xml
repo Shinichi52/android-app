@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ce0e0e</color>
+    <color name="colorPrimaryDark">#9b0c0c</color>
+    <color name="colorAccent">#ce0e0e</color>
+    <color name="bgBottomNavigation">#fe485a</color>
+    <color name="black">#000000</color>
+    <color name="fab_pressed">#546e7a</color>
+    <color name="blue">#3F51B5</color>
+</resources>

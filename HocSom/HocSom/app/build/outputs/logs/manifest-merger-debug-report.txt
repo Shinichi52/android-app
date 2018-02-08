@@ -1,0 +1,173 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml
+		INJECTED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml
+		INJECTED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml
+		INJECTED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:9:5-49:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\bluevy\.android\build-cache\8b5983e3d62e65b427879daeecb7da279dede8d4\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\bluevy\.android\build-cache\b1b085170870648225721c8e3c4ba316d745d823\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\bluevy\.android\build-cache\407d4d229b6c53937e981bd09ec111f2d5f8fe5f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.getbase:floatingactionbutton:1.9.0] C:\Users\bluevy\.android\build-cache\e7959eda93826848543c2ecdfc03be7fb238bfd2\output\AndroidManifest.xml:12:5-20
+MERGED from [com.wdullaer:materialdatetimepicker:1.2.1] C:\Users\bluevy\.android\build-cache\e5a5c49bb8ab9a8a26b2d8bac825f300e350e8a3\output\AndroidManifest.xml:28:5-20
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] C:\Users\bluevy\.android\build-cache\bffbd9bd0da0c015ffc94f1513652d69a7109909\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bluevy\.android\build-cache\bd18769dac51620ee4700d482a602fce4e697505\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\bluevy\.android\build-cache\c3e4d06527af82da4a30e8fa4e9af624c80bd47f\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\bluevy\.android\build-cache\6428d90d016145b53f83ea51b93c9ca702ac16d1\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\bluevy\.android\build-cache\528c28c50f2d688d07ccaa8aacd83efeea6b50bc\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\bluevy\.android\build-cache\91e3cc067cffe7249d65cc564db9173f61746d31\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bluevy\.android\build-cache\2d8e3da61352a184ebb41c9dfeaa1e552e34f08f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bluevy\.android\build-cache\4035bbc1d31b24302f96c77daa39a6f40b4044fb\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\bluevy\.android\build-cache\b7684d6e725ea7c4b453e3b4f099b7ecb7ce26bd\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\bluevy\.android\build-cache\a17fee41109946cffa408ca3338020d5c896430f\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.wrapp.floatlabelededittext:library:0.0.6] C:\Users\bluevy\.android\build-cache\ceacbf418291bb508a08ca46c3230d69de55959c\output\AndroidManifest.xml:11:5-20
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\bluevy\.android\build-cache\e9a245afbc01b9d3aa241a052b5f3d9ae32a238e\output\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\bluevy\.android\build-cache\c5ddaa782368f43ce666609b43d8bbd51aa341b3\output\AndroidManifest.xml:22:5-26:19
+	android:label
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:13:9-54
+	android:allowBackup
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.delaroystudios.alarmreminder.MainActivity
+ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:16:9-59
+	android:name
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:16:19-47
+activity#com.delaroystudios.alarmreminder.AddReminderActivity
+ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:17:9-27:20
+	android:label
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:19:13-64
+	android:parentActivityName
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:20:13-55
+	android:theme
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:21:13-44
+	android:name
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:18:13-48
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:24:13-26:49
+	android:value
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:26:17-46
+	android:name
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:25:17-63
+provider#com.delaroystudios.alarmreminder.data.AlarmReminderProvider
+ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:29:9-32:40
+	android:authorities
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:31:13-67
+	android:exported
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:30:13-55
+service#com.delaroystudios.alarmreminder.reminder.ReminderAlarmService
+ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:34:9-36:40
+	android:exported
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:35:13-58
+activity#com.delaroystudios.alarmreminder.HocTap.view.activity.TrangChu
+ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:38:9-44:20
+	android:name
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:38:19-64
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:42:27-74
+activity#com.delaroystudios.alarmreminder.HocTap.view.activity.NoiDungChuDe1
+ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:45:9-72
+	android:name
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:45:19-69
+activity#com.delaroystudios.alarmreminder.HocTap.view.activity.EditChuDe2
+ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:46:9-69
+	android:name
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:46:19-66
+activity#com.delaroystudios.alarmreminder.HocTap.view.activity.AddChuDe2
+ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:47:9-68
+	android:name
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:47:19-65
+activity#com.delaroystudios.alarmreminder.HocTap.view.activity.EditBaiHocActivity
+ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:48:9-86
+	android:name
+		ADDED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml:48:19-74
+uses-sdk
+INJECTED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\bluevy\.android\build-cache\8b5983e3d62e65b427879daeecb7da279dede8d4\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\bluevy\.android\build-cache\b1b085170870648225721c8e3c4ba316d745d823\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.1] C:\Users\bluevy\.android\build-cache\407d4d229b6c53937e981bd09ec111f2d5f8fe5f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.getbase:floatingactionbutton:1.9.0] C:\Users\bluevy\.android\build-cache\e7959eda93826848543c2ecdfc03be7fb238bfd2\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.wdullaer:materialdatetimepicker:1.2.1] C:\Users\bluevy\.android\build-cache\e5a5c49bb8ab9a8a26b2d8bac825f300e350e8a3\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] C:\Users\bluevy\.android\build-cache\bffbd9bd0da0c015ffc94f1513652d69a7109909\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bluevy\.android\build-cache\bd18769dac51620ee4700d482a602fce4e697505\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\bluevy\.android\build-cache\c3e4d06527af82da4a30e8fa4e9af624c80bd47f\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\bluevy\.android\build-cache\6428d90d016145b53f83ea51b93c9ca702ac16d1\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\bluevy\.android\build-cache\528c28c50f2d688d07ccaa8aacd83efeea6b50bc\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\bluevy\.android\build-cache\91e3cc067cffe7249d65cc564db9173f61746d31\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bluevy\.android\build-cache\2d8e3da61352a184ebb41c9dfeaa1e552e34f08f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bluevy\.android\build-cache\4035bbc1d31b24302f96c77daa39a6f40b4044fb\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\bluevy\.android\build-cache\6e1557598db9c58d925b41a4820695baafc13f26\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\bluevy\.android\build-cache\b7684d6e725ea7c4b453e3b4f099b7ecb7ce26bd\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\bluevy\.android\build-cache\a17fee41109946cffa408ca3338020d5c896430f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.wrapp.floatlabelededittext:library:0.0.6] C:\Users\bluevy\.android\build-cache\ceacbf418291bb508a08ca46c3230d69de55959c\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\bluevy\.android\build-cache\e9a245afbc01b9d3aa241a052b5f3d9ae32a238e\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\bluevy\.android\build-cache\c5ddaa782368f43ce666609b43d8bbd51aa341b3\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\bluevy\.android\build-cache\b1b085170870648225721c8e3c4ba316d745d823\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml
+		INJECTED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml
+		INJECTED from D:\App\v1\HocSom\HocSom\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\bluevy\.android\build-cache\b1b085170870648225721c8e3c4ba316d745d823\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\bluevy\.android\build-cache\407d4d229b6c53937e981bd09ec111f2d5f8fe5f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bluevy\.android\build-cache\bd18769dac51620ee4700d482a602fce4e697505\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\bluevy\.android\build-cache\6428d90d016145b53f83ea51b93c9ca702ac16d1\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\bluevy\.android\build-cache\528c28c50f2d688d07ccaa8aacd83efeea6b50bc\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\bluevy\.android\build-cache\91e3cc067cffe7249d65cc564db9173f61746d31\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bluevy\.android\build-cache\2d8e3da61352a184ebb41c9dfeaa1e552e34f08f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bluevy\.android\build-cache\4035bbc1d31b24302f96c77daa39a6f40b4044fb\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\bluevy\.android\build-cache\6e1557598db9c58d925b41a4820695baafc13f26\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\bluevy\.android\build-cache\b7684d6e725ea7c4b453e3b4f099b7ecb7ce26bd\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\bluevy\.android\build-cache\a17fee41109946cffa408ca3338020d5c896430f\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\bluevy\.android\build-cache\c5ddaa782368f43ce666609b43d8bbd51aa341b3\output\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\bluevy\.android\build-cache\b1b085170870648225721c8e3c4ba316d745d823\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\bluevy\.android\build-cache\b1b085170870648225721c8e3c4ba316d745d823\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.VIBRATE
+ADDED from [com.wdullaer:materialdatetimepicker:1.2.1] C:\Users\bluevy\.android\build-cache\e5a5c49bb8ab9a8a26b2d8bac825f300e350e8a3\output\AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from [com.wdullaer:materialdatetimepicker:1.2.1] C:\Users\bluevy\.android\build-cache\e5a5c49bb8ab9a8a26b2d8bac825f300e350e8a3\output\AndroidManifest.xml:26:22-63

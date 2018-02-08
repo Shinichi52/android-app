@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+<LinearLayout
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+    android:padding="5dp"
+    >
+    <TextView
+        android:id="@+id/txtTenNhacNho"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="Lần 1"
+        android:layout_weight="1"
+        android:textSize="22sp"
+        android:textColor="#000000"
+        />
+    <TextView
+        android:id="@+id/txtThoiGian"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="9:00"
+        android:layout_weight="1"
+        android:textSize="22sp"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:id="@+id/txtXoa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="Xóa"
+        android:layout_weight="1"
+        android:textSize="22sp"
+        android:textColor="#000000"
+        android:textAlignment="textEnd"
+        />
+
+</LinearLayout>
+</android.support.v4.widget.NestedScrollView>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_lessons"
+        android:icon="@drawable/ic_lessons_black_24dp"
+        android:title="@string/title_lessons" />
+    <item
+        android:id="@+id/navigation_history"
+        android:icon="@drawable/ic_history_black_24dp"
+        android:title="Lịch Sử" />
+    <!--
+    <item
+        android:id="@+id/navigation_play"
+        android:icon="@drawable/playbutton"
+        android:title="@string/title_hoc" />
+    -->
+    <item
+        android:id="@+id/navigation_subjects"
+        android:icon="@drawable/ic_subjects_black_24dp"
+        android:title="@string/title_subjects" />
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="@string/title_settings" />
+
+</menu>

@@ -1,0 +1,41 @@
+<android.support.v7.widget.CardView
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/word_card_view"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:clickable="true"
+    card_view:cardCornerRadius="4dp"
+    android:layout_margin="5dp"
+    android:focusable="true">
+    <!--    android:background="@drawable/ripple" -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="5dp"
+        >
+
+        <TextView
+            android:id="@+id/wordCardTextView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:background="@drawable/custom_editbaihoc_btn"
+            android:text="Bố"
+            android:textSize="22sp"
+            android:ellipsize="marquee"
+            android:singleLine="true"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:scrollHorizontally="true"
+            />
+        <ImageView
+            android:id="@+id/imvCheck"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/success"
+            android:layout_gravity="right|top"
+            android:visibility="gone"
+            />
+    </FrameLayout>
+</android.support.v7.widget.CardView>

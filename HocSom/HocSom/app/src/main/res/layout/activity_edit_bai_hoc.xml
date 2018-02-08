@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimary"
+        >
+        <ImageView
+            android:id="@+id/imvBack"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/back"
+            android:layout_weight="3"
+            android:padding="10dp"
+            />
+        <TextView
+            android:id="@+id/txtSotu"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="1/5"
+            android:gravity="center"
+            android:textSize="38sp"
+            android:textColor="#fff"
+            />
+
+        <ImageView
+            android:id="@+id/imvSave"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/save_edit"
+            android:layout_weight="3"
+            android:padding="10dp"
+            />
+    </LinearLayout>
+<android.support.v7.widget.RecyclerView
+    android:id="@+id/recyclerview_editbaihoc"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    >
+
+</android.support.v7.widget.RecyclerView>
+</LinearLayout>

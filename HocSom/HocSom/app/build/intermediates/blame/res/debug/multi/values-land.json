@@ -1,0 +1,199 @@
+[
+    {
+        "outputFile": "D:\\App\\v1\\HocSom\\HocSom\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "C:\\Users\\bluevy\\.android\\build-cache\\bd18769dac51620ee4700d482a602fce4e697505\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 69,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 63,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "C:\\Users\\bluevy\\.android\\build-cache\\bd18769dac51620ee4700d482a602fce4e697505\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 63,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 70,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "C:\\Users\\bluevy\\.android\\build-cache\\bd18769dac51620ee4700d482a602fce4e697505\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 70,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 67,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "C:\\Users\\bluevy\\.android\\build-cache\\bd18769dac51620ee4700d482a602fce4e697505\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 67,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 51,
+                    "endOffset": 375
+                },
+                "from": {
+                    "file": "C:\\Users\\bluevy\\.android\\build-cache\\e5a5c49bb8ab9a8a26b2d8bac825f300e350e8a3\\output\\res\\values-land\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 51,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 380,
+                    "endColumn": 53,
+                    "endOffset": 429
+                },
+                "from": {
+                    "file": "C:\\Users\\bluevy\\.android\\build-cache\\e5a5c49bb8ab9a8a26b2d8bac825f300e350e8a3\\output\\res\\values-land\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 53,
+                        "endOffset": 315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 434,
+                    "endColumn": 59,
+                    "endOffset": 489
+                },
+                "from": {
+                    "file": "C:\\Users\\bluevy\\.android\\build-cache\\e5a5c49bb8ab9a8a26b2d8bac825f300e350e8a3\\output\\res\\values-land\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 320,
+                        "endColumn": 59,
+                        "endOffset": 375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 494,
+                    "endColumn": 60,
+                    "endOffset": 550
+                },
+                "from": {
+                    "file": "C:\\Users\\bluevy\\.android\\build-cache\\e5a5c49bb8ab9a8a26b2d8bac825f300e350e8a3\\output\\res\\values-land\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 380,
+                        "endColumn": 60,
+                        "endOffset": 436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 555,
+                    "endColumn": 59,
+                    "endOffset": 610
+                },
+                "from": {
+                    "file": "C:\\Users\\bluevy\\.android\\build-cache\\e5a5c49bb8ab9a8a26b2d8bac825f300e350e8a3\\output\\res\\values-land\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 441,
+                        "endColumn": 59,
+                        "endOffset": 496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 615,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 792
+                },
+                "from": {
+                    "file": "C:\\Users\\bluevy\\.android\\build-cache\\b1b085170870648225721c8e3c4ba316d745d823\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 232
+                    }
+                }
+            }
+        ]
+    }
+]
